@@ -1,0 +1,3 @@
+{'email': '3e71ac85-fece-4802-83bc-32978bc15d51@test.ru', 'password': '$1isi^xu3a', 'name': 'Alexandra'}
+STATUS: 200
+BODY: {'success': True, 'user': {'email': '3e71ac85-fece-4802-83bc-32978bc15d51@test.ru', 'name': 'Alexandra'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhNGI3ZWEwOTg0MjcwMDAxYmViMjdhOCIsImlhdCI6MTc4MzMzMjUxMiwiZXhwIjoxNzgzMzMzNzEyfQ.q3N5DFSCxK-M7rYfG5GtTjPtnhOPJIuMNEPF2l68Qlw', 'refreshToken': '2ef3e703cd64dcd996df7f771de45c1e38177e9b59a02f16e7144a72a058d334523d1e5b8cb0e43b'}

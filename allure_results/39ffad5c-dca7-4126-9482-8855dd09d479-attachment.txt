@@ -1,0 +1,3 @@
+{'email': 'b5d6b925-2f28-47e6-b78d-765802e76794@test.ru', 'password': 'w^n770yx3x', 'name': 'Devin'}
+STATUS: 200
+BODY: {'success': True, 'user': {'email': 'b5d6b925-2f28-47e6-b78d-765802e76794@test.ru', 'name': 'Devin'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhNGI3ZTlkOTg0MjcwMDAxYmViMjdhNiIsImlhdCI6MTc4MzMzMjUwOSwiZXhwIjoxNzgzMzMzNzA5fQ.N-KA7V-lsPMVC9k7yWb0V8OkDrsRzjH8F5OE-YfIWis', 'refreshToken': '87414c29b8f2e20959b70e09971931c1590dd3884f6063ca81e24d58c3c70185825be3a9668d62af'}
