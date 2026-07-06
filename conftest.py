@@ -9,11 +9,8 @@ def create_user():
     user_methods = UserMethods()
 
     user_data = generate_random_user_body()
-    print(user_data)
 
     response = user_methods.create_user(user_data)
-    print("STATUS:", response.status_code)
-    print("BODY:", response.json())
 
     token = response.json()["accessToken"]
     
