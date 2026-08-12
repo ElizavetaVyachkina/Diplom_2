@@ -1,0 +1,3 @@
+{'email': 'd54c34a2-55aa-44ee-8e12-898c5c745d77@test.ru', 'password': 'p*^v6rbj5a', 'name': 'Maria'}
+STATUS: 200
+BODY: {'success': True, 'user': {'email': 'd54c34a2-55aa-44ee-8e12-898c5c745d77@test.ru', 'name': 'Maria'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhNGI3ZTk3OTg0MjcwMDAxYmViMjdhMSIsImlhdCI6MTc4MzMzMjUwMywiZXhwIjoxNzgzMzMzNzAzfQ.jh_PyHWVaCyWh26zlk1Inho0Za67_A-abvV7MtlNYkw', 'refreshToken': '93819d9e3e9dc96de2812c9b050a89710c0236f344f50163d4f70e1410438177fbce1ae9ae0b59c3'}

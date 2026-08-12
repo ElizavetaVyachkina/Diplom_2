@@ -1,0 +1,3 @@
+{'email': 'f887a76e-84ae-48c4-8dc3-248d2c435250@test.ru', 'password': '*a82t5h@z6', 'name': 'Laura'}
+STATUS: 200
+BODY: {'success': True, 'user': {'email': 'f887a76e-84ae-48c4-8dc3-248d2c435250@test.ru', 'name': 'Laura'}, 'accessToken': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhNGI3ZWFhOTg0MjcwMDAxYmViMjdhYiIsImlhdCI6MTc4MzMzMjUyMiwiZXhwIjoxNzgzMzMzNzIyfQ.h2gG1kwlUmvQYMXYbTHFMGgd56DzGyCTYo0YdOyuzJE', 'refreshToken': 'd7f5d156e438a3af4a132a889c99d5c2edfe7b3eea9b00f7df18d4c7a8c7789fdf2120e5c20ce9e1'}
